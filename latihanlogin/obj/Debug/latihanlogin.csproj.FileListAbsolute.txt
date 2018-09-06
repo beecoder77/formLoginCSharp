@@ -1,0 +1,11 @@
+D:\Projek\KK3\latihanlogin\latihanlogin\obj\Debug\latihanlogin.csprojAssemblyReference.cache
+D:\Projek\KK3\latihanlogin\latihanlogin\obj\Debug\latihanlogin.login.resources
+D:\Projek\KK3\latihanlogin\latihanlogin\obj\Debug\latihanlogin.Properties.Resources.resources
+D:\Projek\KK3\latihanlogin\latihanlogin\obj\Debug\latihanlogin.csproj.GenerateResource.cache
+D:\Projek\KK3\latihanlogin\latihanlogin\obj\Debug\latihanlogin.csproj.CoreCompileInputs.cache
+D:\Projek\KK3\latihanlogin\latihanlogin\bin\Debug\latihanlogin.exe.config
+D:\Projek\KK3\latihanlogin\latihanlogin\bin\Debug\latihanlogin.exe
+D:\Projek\KK3\latihanlogin\latihanlogin\bin\Debug\latihanlogin.pdb
+D:\Projek\KK3\latihanlogin\latihanlogin\obj\Debug\latihanlogin.exe
+D:\Projek\KK3\latihanlogin\latihanlogin\obj\Debug\latihanlogin.pdb
+D:\Projek\KK3\latihanlogin\latihanlogin\obj\Debug\latihanlogin.Form2.resources
